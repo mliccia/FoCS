@@ -1,4 +1,4 @@
-"# FoCS" 
+## FoCS
 
 Progetto di Foundation of Computer Science a cura di Matteo Licciardello (mat. 799368)
 
